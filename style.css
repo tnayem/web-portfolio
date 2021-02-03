@@ -28,3 +28,11 @@ section{
     
     
 }
+.link-button{
+    text-decoration: none;
+    padding:8px 23px;
+    background-image:linear-gradient(lightsalmon, tomato);
+    color:white;
+    border-radius:5px;
+    font-weight: 700;
+}
